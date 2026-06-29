@@ -1,0 +1,14 @@
+{
+    "name": "PupilLabs.Neon.Companion.Client",
+    "rootNamespace": "PupilLabs.Neon.Companion.Client",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

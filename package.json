@@ -1,0 +1,16 @@
+{
+  "name": "com.ppedro74.pupillabs.neon.companion.client",
+  "version": "1.0.0",
+  "displayName": "PupilLabs Neon Companion Client",
+  "description": "PupilLabs Neon Companion Client",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "pupil labs",
+    "neon",
+    "companion app"
+  ],
+  "author": {
+    "name": "Pedro Pereira"
+  }
+}
