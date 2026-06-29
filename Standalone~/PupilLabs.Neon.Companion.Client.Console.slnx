@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PupilLabs.Neon.Companion.Client/PupilLabs.Neon.Companion.Client.csproj" />
+  <Project Path="PupilLabs.Neon.Companion.Client.Console/PupilLabs.Neon.Companion.Client.Console.csproj" />
+</Solution>
