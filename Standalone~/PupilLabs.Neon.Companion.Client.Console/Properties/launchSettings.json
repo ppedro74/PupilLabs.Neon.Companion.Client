@@ -5,8 +5,13 @@
       "commandLineArgs": "fff"
     },
     "args status and time": {
-      "commandName": "get status and time",
+      "commandName": "Project",
       "commandLineArgs": "--run-get-status --run-time-echo"
+    },
+    "args list streams": {
+      "commandName": "Project",
+      "commandLineArgs": "--run-list-streams"
+
     }
   }
 }

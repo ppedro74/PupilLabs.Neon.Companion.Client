@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <PackageReference Include="CommandLineParser" Version="2.9.1" />
+    <PackageReference Include="SharpLSL" Version="1.17.6" />
+    <PackageReference Include="SharpLSL.Native.all" Version="1.17.6" />
   </ItemGroup>
 
   <ItemGroup>
