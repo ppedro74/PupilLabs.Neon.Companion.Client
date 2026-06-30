@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "PupilLabs.Neon.Companion.Client.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "fff"
+    },
+    "args status and time": {
+      "commandName": "get status and time",
+      "commandLineArgs": "--run-get-status --run-time-echo"
+    }
+  }
+}
